@@ -1,0 +1,17 @@
+body {
+  height: 100%;
+  width: 100%;
+  place-items: center;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(129,108,143);
+  background: linear-gradient(90deg, rgba(129,108,143,1) 0%, rgba(0,0,0,0.13209033613445376) 50%, rgba(131,108,76,0.5242471988795518) 100%);
+  color: rgb(34, 34, 34);
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: #eee;
+}

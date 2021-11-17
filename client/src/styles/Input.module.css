@@ -1,0 +1,53 @@
+.divCenter{
+    margin: 0px 100px 100px 100px;
+    padding: 0px 100px 100px 100px;
+  } 
+  .form {
+      background-color: #c7c7c7;
+      border-radius: 20px;
+      box-sizing: border-box;
+  }  
+  .input {
+      background-color: #b3b3b3;
+      border-radius: 12px;
+      border: 0;
+      box-sizing: border-box;
+      font-size: 18px;
+      height: 50%;
+      outline: 0;
+      padding: 4px 10px 0;
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  .submit {
+      background-color: rgb(0, 221, 118);
+      border-radius: 12px;
+      border: 0;
+      box-sizing: border-box;
+      color: rgb(34, 34, 34);
+      cursor: pointer;
+      font-size: 18px;
+      height: 50px;
+      margin-top: 20px;
+      outline: 0;
+      text-align: center;
+      width: 15%;
+    }
+    .submit:active {
+      background-color: rgb(49, 133, 77);
+    }
+    .menu {
+      width: 100%;
+      margin-top: 20px;
+      font-size: 20px;
+    }
+    .menu ul {
+      justify-content: space-between;
+      display: flex;
+    }
+    .menu ul li {
+      list-style-type: none;
+      text-align: left;
+      padding: 10px;
+    }
+    
