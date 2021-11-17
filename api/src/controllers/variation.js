@@ -18,6 +18,7 @@ function variation(arr, n) {
     }
     return result;
 }
+
 module.exports = {
     variation
 }
